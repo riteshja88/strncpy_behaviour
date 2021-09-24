@@ -31,6 +31,5 @@ s1[09] 0
 s1[10] 65
 ````
 
-<a href=https://linux.die.net/man/3/strncpy>
+<a href=https://linux.die.net/man/3/strncpy>https://linux.die.net/man/3/strncpy</a>
 <img width="815" alt="image" src="https://user-images.githubusercontent.com/2250378/134701826-1c25c71a-aeb6-41fc-8300-20118f8aa91f.png">
-</a>
