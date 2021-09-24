@@ -33,5 +33,5 @@ s1[10] 65
 
 <a href=https://linux.die.net/man/3/strncpy>https://linux.die.net/man/3/strncpy</a>
 <img width="815" alt="image" src="https://user-images.githubusercontent.com/2250378/134701826-1c25c71a-aeb6-41fc-8300-20118f8aa91f.png">
-<img width="626" alt="image" src="https://user-images.githubusercontent.com/2250378/134702369-17bbe11b-68a5-4cbd-aba1-0bc33996293b.png">
+<img width="661" alt="image" src="https://user-images.githubusercontent.com/2250378/134702458-4e0880f3-cc00-4e3e-b316-acdfb0e5c058.png">
 
