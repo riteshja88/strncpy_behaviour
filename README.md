@@ -35,3 +35,7 @@ s1[10] 65
 <img width="815" alt="image" src="https://user-images.githubusercontent.com/2250378/134701826-1c25c71a-aeb6-41fc-8300-20118f8aa91f.png">
 <img width="661" alt="image" src="https://user-images.githubusercontent.com/2250378/134702458-4e0880f3-cc00-4e3e-b316-acdfb0e5c058.png">
 
+
+<a href=https://www.sudo.ws/todd/papers/strlcpy.html>
+https://www.sudo.ws/todd/papers/strlcpy.html</a>
+
